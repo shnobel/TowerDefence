@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &442532211686509775
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 680536269613190966, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 680536269613190966, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 680536269613190966, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 680536269613190966, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 680536269613190966, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 680536269613190966, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 680536269613190966, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 680536269613190966, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 680536269613190966, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 680536269613190966, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 680536269613190966, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 680536269613683542, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_Name
+      value: Tower_Female_Sword
+      objectReference: {fileID: 0}
+    - target: {fileID: 6896442208968877892, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_delay
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6896442208968877892, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_damage
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6896442208968877893, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+        type: 3}
+      propertyPath: m_Center.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0eea30746bcd65e42a759cddf9e9ee34, type: 3}
+--- !u!4 &1105053793448248311 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 680536269613190968, guid: 0eea30746bcd65e42a759cddf9e9ee34,
+    type: 3}
+  m_PrefabInstance: {fileID: 442532211686509775}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4665114039390735437
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1105053793448248311}
+    m_Modifications:
+    - target: {fileID: 8809962572534133982, guid: ca8cfe9f8bed64b4595430671f7a9357,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8809962572534133982, guid: ca8cfe9f8bed64b4595430671f7a9357,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8809962572534133982, guid: ca8cfe9f8bed64b4595430671f7a9357,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8809962572534133982, guid: ca8cfe9f8bed64b4595430671f7a9357,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8809962572534133982, guid: ca8cfe9f8bed64b4595430671f7a9357,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8809962572534133982, guid: ca8cfe9f8bed64b4595430671f7a9357,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8809962572534133982, guid: ca8cfe9f8bed64b4595430671f7a9357,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8809962572534133982, guid: ca8cfe9f8bed64b4595430671f7a9357,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8809962572534133982, guid: ca8cfe9f8bed64b4595430671f7a9357,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8809962572534133982, guid: ca8cfe9f8bed64b4595430671f7a9357,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8809962572534133982, guid: ca8cfe9f8bed64b4595430671f7a9357,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8809962572534360318, guid: ca8cfe9f8bed64b4595430671f7a9357,
+        type: 3}
+      propertyPath: m_Name
+      value: Copper_Sword
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ca8cfe9f8bed64b4595430671f7a9357, type: 3}

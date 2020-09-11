@@ -1,0 +1,47 @@
+# Unity generated #
+# =============== #
+Temp/
+Library/
+UIElementsSchema/
+Builds/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+
+
+# ============ #
+# Rider generated #
+# ============ #
+.idea/
+Assets/Plugins/Editor/JetBrains
+Assets/Plugins/Editor/JetBrains.meta
+Assets/Plugins/Editor.meta
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Logs/Packages-Update.log
+.vs
